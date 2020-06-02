@@ -1,0 +1,2 @@
+model_checkpoint_path: "foursquare_top3"
+all_model_checkpoint_paths: "foursquare_top3"
