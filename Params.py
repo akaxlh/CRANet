@@ -32,9 +32,9 @@ elif DATASET == 'fsq':
 
 # Storage Parameters
 LOAD_MODEL = ''
-TRAIN_FILE = 'Datasets/' + DATASET + '/mats/sparseMat_0.9_train.csv'
-TEST_FILE = 'Datasets/' + DATASET + '/mats/sparseMat_0.9_test.csv'
-CV_FILE = 'Datasets/' + DATASET + '/mats/sparseMat_0.9_cv.csv'
+TRAIN_FILE = 'Datasets/' + DATASET + '/sparseMat_0.9_train.csv'
+TEST_FILE = 'Datasets/' + DATASET + '/sparseMat_0.9_test.csv'
+CV_FILE = 'Datasets/' + DATASET + '/sparseMat_0.9_cv.csv'
 
 # Model Parameters
 # Hyper-parameter values for ML-1M, ML-10M, Netflix and Foursquare respectively
