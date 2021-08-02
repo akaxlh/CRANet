@@ -56,3 +56,4 @@ else:
 
 SAVE_PATH = 'tem'
 LOAD_MODEL = None
+FUSE_TRAIN_CV = True
